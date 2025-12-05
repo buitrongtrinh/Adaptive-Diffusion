@@ -8,6 +8,6 @@ Training-Free Adaptive Diffusion with Colab demo on Tesla T4.
 
 Full instructions and demo are provided in [`src.ipynb`](src.ipynb).
 
-- Open `src.ipynb` in Jupyter or Colab.
+- Open `src.ipynb` in `Colab`.
 - Follow the cells to run the adaptive diffusion demo.
 
